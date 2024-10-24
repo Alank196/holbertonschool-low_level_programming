@@ -1,13 +1,9 @@
-/*
- *  * File: 6-size.c
- *   */
-
 #include <stdio.h>
 
 /**
- *  * main - Prints the size of various types based
- *   * Return: Always 0 by korneevscp.
- *    */
+ * main - Prints the size of various types based
+ * Return: Always 0 by korneevscp.
+ */
 int main(void)
 {
 	printf("Size of a char: %zu byte(s)\n", sizeof(char));
