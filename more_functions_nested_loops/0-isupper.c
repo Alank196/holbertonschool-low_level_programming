@@ -1,4 +1,4 @@
-#inlcude "main.h"
+#include "main.h"
 
 /**
  * _isupper - Check if a letter is upper
@@ -13,4 +13,4 @@ int _isupper(int x)
 	return (1);
 	}
 	return (0);
-
+}
